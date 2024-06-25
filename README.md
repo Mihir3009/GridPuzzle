@@ -10,7 +10,7 @@ Scope of the dataset: The dataset consists of GridPuzzle with the original reaso
 <br> 
 The data folder contains the following files:
 ├── ...
-data/
+├── data/
   ├── GridPuzzle
   ├── Auto-Evaluation
   ├── Metrics
@@ -20,10 +20,10 @@ data/
       ├── Mitigation Results
       └── PuzzleEval Results
 
-#Excel File format for GridPuzzle
+# Excel File format for GridPuzzle
 
-#Excel File format for Auto-Evaluation
+# Excel File format for Auto-Evaluation
 
-#Excel File format for Accuracy
+# Excel File format for Accuracy
 
-#Excel File format for PuzzleEval
+# Excel File format for PuzzleEval
