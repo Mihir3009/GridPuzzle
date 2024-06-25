@@ -21,11 +21,24 @@ The ```data/``` folder contains the following files:
           ├── Mitigation Results
           └── PuzzleEval Results
 
-## Excel File format for GridPuzzle
+## Excel file format for GridPuzzle
+| key | id | question | answer | Mistral-7b | Llama-13b | Gemini-pro | GPT-4-turbo | Claude-3 |
+|-----|----|----------|--------|------------|-----------|------------|-------------|----------|
+
+### Column Descriptions
+- **key**: Unique identifier for each data entry.
+- **id**: Secondary identifier that may be used for linking to other datasets.
+- **question**: The question text that was posed in the dataset.
+- **answer**: The answer text corresponding to the question.
+- **Mistral-7b**: Model's performance score on the Mistral-7b evaluation.
+- **Llama-13b**: Score from the Llama-13b model.
+- **gemini-pro**: Performance metrics from the gemini-pro model.
+- **gpt-4-turbo**: Results from the GPT-4 Turbo model for comparison.
+- **Claude-3**: Performance evaluation from the Claude-3 model.
 
 
-## Excel File format for Auto-Evaluation
+## Excel file format for Auto-Evaluation
 
-## Excel File format for Accuracy
+## Excel file format for Accuracy
 
-## Excel File format for PuzzleEval
+## Excel file format for PuzzleEval
