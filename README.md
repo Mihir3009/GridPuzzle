@@ -14,9 +14,9 @@ The data folder contains the following files:
   ├── GridPuzzle
   ├── Auto-Evaluation
   ├── Metrics
-    │ ├── Accuracy
-    │ └── PuzzleEval
-    └── Mitigation
+  │   ├── Accuracy
+  │   └── PuzzleEval
+  └── Mitigation
       ├── Mitigation Results
       └── PuzzleEval Results
 
