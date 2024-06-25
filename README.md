@@ -26,15 +26,15 @@ The ```data/``` folder contains the following files:
 |-----|----|----------|--------|------------|-----------|------------|-------------|----------|
 
 ### Column Descriptions
-    - **key**: The grid size of each puzzle along with the difficulty level.
-    - **id**: Unique identifier for each data entry.
-    - **question**: The puzzle question prompt using Zero-shot-CoT.
-    - **answer**: The gold solution table for the corresponding puzzle.
-    - **Mistral-7b**: Model response for the prompt in the question.
-    - **Llama-13b**:  Model response for the prompt in the question.
-    - **Gemini-pro**:  Model response for the prompt in the question.
-    - **GPT-4-turbo**:  Model response for the prompt in the question.
-    - **Claude-3**:  Model response for the prompt in the question.
+- **key**: The grid size of each puzzle along with the difficulty level.
+- **id**: Unique identifier for each data entry.
+- **question**: The puzzle question prompt using Zero-shot-CoT.
+- **answer**: The gold solution table for the corresponding puzzle.
+- **Mistral-7b**: Model response for the prompt in the question.
+- **Llama-13b**:  Model response for the prompt in the question.
+- **Gemini-pro**:  Model response for the prompt in the question.
+- **GPT-4-turbo**:  Model response for the prompt in the question.
+- **Claude-3**:  Model response for the prompt in the question.
 
 
 ## Excel file format for Auto-Evaluation
