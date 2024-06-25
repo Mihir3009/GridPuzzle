@@ -12,7 +12,7 @@ The ```data/``` folder contains the following files:
     
     ├── ...
     ├── data/
-      ├── GridPuzzle
+      ├── GridPuzzle.csv
       ├── Auto-Evaluation
       ├── Metrics
       │   ├── Accuracy
@@ -21,7 +21,7 @@ The ```data/``` folder contains the following files:
           ├── Mitigation Results
           └── PuzzleEval Results
 
-## Excel file format for GridPuzzle
+## CSV file format for GridPuzzle
 | key | id | question | answer | Mistral-7b | Llama-13b | Gemini-pro | GPT-4-turbo | Claude-3 |
 |-----|----|----------|--------|------------|-----------|------------|-------------|----------|
 
