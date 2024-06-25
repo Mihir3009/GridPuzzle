@@ -6,4 +6,4 @@ Solving grid puzzles involves a significant amount of logical reasoning. Hence, 
 # Data Release
 Please see ./data folder to access the GridPuzzle dataset as well as the data for all the experiments.
  
-Scope of the dataset: The dataset consistes of GridPuzzle with the original reasoning chains, the data for Auto-evaluation done by GPT-4o, the data for both the Metrics, Accuracy and PuzzleEval and finally the data for the Mitigation strategies.
+*Scope of the dataset*: The dataset consistes of GridPuzzle with the original reasoning chains, the data for Auto-evaluation done by GPT-4o, the data for both the Metrics, Accuracy and PuzzleEval and finally the data for the Mitigation strategies.
