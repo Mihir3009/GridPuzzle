@@ -3,27 +3,29 @@ Solving grid puzzles involves a significant amount of logical reasoning. Hence, 
  
 ![puzzleteaser](https://github.com/Mihir3009/GridPuzzle/assets/55184768/9dcb41af-6fa9-45e5-bf04-f4121e851018)
 
-# Data Release
+## Data Release
 Please take a look at the ./data folder to access the GridPuzzle dataset and the data for all the experiments.
 <br><br>
 Scope of the dataset: The dataset consists of GridPuzzle with the original reasoning chains, the data for Auto-evaluation done by GPT-4o, the data for both the Metrics, Accuracy and PuzzleEval, and finally the data for the Mitigation strategies.
 <br> 
-The data folder contains the following files:
-├── ...
-├── data/
-  ├── GridPuzzle
-  ├── Auto-Evaluation
-  ├── Metrics
-  │   ├── Accuracy
-  │   └── PuzzleEval
-  └── Mitigation
-      ├── Mitigation Results
-      └── PuzzleEval Results
+The ```data/``` folder contains the following files:  
+    
+    ├── ...
+    ├── data/
+      ├── GridPuzzle
+      ├── Auto-Evaluation
+      ├── Metrics
+      │   ├── Accuracy
+      │   └── PuzzleEval
+      └── Mitigation
+          ├── Mitigation Results
+          └── PuzzleEval Results
 
-# Excel File format for GridPuzzle
+## Excel File format for GridPuzzle
 
-# Excel File format for Auto-Evaluation
 
-# Excel File format for Accuracy
+## Excel File format for Auto-Evaluation
 
-# Excel File format for PuzzleEval
+## Excel File format for Accuracy
+
+## Excel File format for PuzzleEval
